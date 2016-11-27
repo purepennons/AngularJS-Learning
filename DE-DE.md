@@ -1,6 +1,6 @@
-AngularJS
+﻿AngularJS
 ===
-
+ss
 Eine Ansammlung von deutschen Blog Posts, Artikeln, Büchern, Videos, etc. zum Thema 
 AngularJS.
 
